@@ -14,14 +14,14 @@ I am a technology enthusiast, I like to learn about new technologies and a lover
 Connect with me:
 
 
-[<img height="55" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/linkedin.png" width="55"/>](https://www.linkedin.com/in/rafael-saldaña-richardson-8b4146b8)
-[<img height="55" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/pngegg.png" width="55"/>](https://twitter.com/rsaldanar)
+[<img height="55" src="/resources/linkedin.png" width="55"/>](https://www.linkedin.com/in/rafael-saldaña-richardson-8b4146b8)
+[<img height="55" src="/resources/pngegg.png" width="55"/>](https://twitter.com/rsaldanar)
 </div>
 
 Languages and Tools:
 
 
-[<img height="55" src="/resources/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-Ãmer-5b6766ab5dba25.7100170215335031473839.png" width="55"/>](https://www.java.com/es/)
+[<img height="55" src="/resources/java.png" width="55"/>](https://www.java.com/es/)
 [<img height="55" src="/resources/clipart300342.png" width="55"/>](https://spring.io)
 [<img height="65" src="/resources/pngwing.com.png" width="65"/>](https://www.openapis.org)
 [<img height="70" src="/resources/pngwing.com-2.png" width="70"/>](https://www.postgresql.org)
