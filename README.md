@@ -21,15 +21,14 @@ Connect with me:
 Languages and Tools:
 
 
-[<img height="55" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-Ãmer-5b6766ab5dba25.7100170215335031473839.png" width="55"/>](https://www.java.com/es/)
-[<img height="55" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/clipart300342.png" width="55"/>](https://spring.io)
-[<img height="65" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/pngwing.com.png" width="65"/>](https://www.openapis.org)
-[<img height="70" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/pngwing.com-2.png" width="70"/>](https://www.postgresql.org)
-[<img height="80" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/pngwing.com-3.png" width="80"/>](https://www.oracle.com)
-[<img height="70" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/pngwing.com-4.png" width="70"/>](https://www.mysql.com)
-[<img height="90" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/pngwing.com-5.png" width="90"/>](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-[<img height="70" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/pngwing.com-6.png" width="70"/>](https://www.linux.org)
-[<img height="70" src="https://tomcat.apache.org/res/images/tomcat.png" width="70"/>](https://tomcat.apache.org)
+[<img height="55" src="/resources/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-Ãmer-5b6766ab5dba25.7100170215335031473839.png" width="55"/>](https://www.java.com/es/)
+[<img height="55" src="/resources/clipart300342.png" width="55"/>](https://spring.io)
+[<img height="65" src="/resources/pngwing.com.png" width="65"/>](https://www.openapis.org)
+[<img height="70" src="/resources/pngwing.com-2.png" width="70"/>](https://www.postgresql.org)
+[<img height="80" src="/resources/pngwing.com-3.png" width="80"/>](https://www.oracle.com)
+[<img height="70" src="/resources/pngwing.com-4.png" width="70"/>](https://www.mysql.com)
+[<img height="90" src="/resources/pngwing.com-5.png" width="90"/>](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[<img height="70" src="/resources/pngwing.com-6.png" width="70"/>](https://www.linux.org)
+[<img height="70" src="/resources/tomcat.png" width="70"/>](https://tomcat.apache.org)
 [<img height="90" src="/resources/3-2-os-x-thumb.png" width="90"/>](https://www.apple.com/macos/)
-[<img height="70" src="/Users/rsaldana/Pictures/Icono de tecnologias/Captura de pantalla 2023-01-13 a la(s) 4.34.21 p. m..png" width="70"/>]()
 
