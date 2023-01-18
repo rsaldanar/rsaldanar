@@ -30,6 +30,6 @@ Languages and Tools:
 [<img height="90" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/pngwing.com-5.png" width="90"/>](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [<img height="70" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/pngwing.com-6.png" width="70"/>](https://www.linux.org)
 [<img height="70" src="https://tomcat.apache.org/res/images/tomcat.png" width="70"/>](https://tomcat.apache.org)
-[<img height="90" src="/Users/rsaldana/Developer/Proyectos/Spring/rsaldanar/resources/3-2-os-x-thumb.png" width="90"/>](https://www.apple.com/macos/)
-
+[<img height="90" src="/resources/3-2-os-x-thumb.png" width="90"/>](https://www.apple.com/macos/)
+[<img height="70" src="/Users/rsaldana/Pictures/Icono de tecnologias/Captura de pantalla 2023-01-13 a la(s) 4.34.21 p. m..png" width="70"/>]()
 
