@@ -14,21 +14,21 @@ I am a technology enthusiast, I like to learn about new technologies and a lover
 Connect with me:
 
 
-[<img height="55" src="/resources/linkedin.png" width="55"/>](https://www.linkedin.com/in/rafael-saldaña-richardson-8b4146b8)
-[<img height="55" src="/resources/pngegg.png" width="55"/>](https://twitter.com/rsaldanar)
+[<img height="55" src=".idea/resources/linkedin.png" width="55"/>](https://www.linkedin.com/in/rafael-saldaña-richardson-8b4146b8)
+[<img height="55" src=".idea/resources/pngegg.png" width="55"/>](https://twitter.com/rsaldanar)
 </div>
 
 Languages and Tools:
 
 
-[<img height="55" src="/resources/java.png" width="55"/>](https://www.java.com/es/)
-[<img height="55" src="/resources/clipart300342.png" width="55"/>](https://spring.io)
-[<img height="65" src="/resources/pngwing.com.png" width="65"/>](https://www.openapis.org)
-[<img height="70" src="/resources/pngwing.com-2.png" width="70"/>](https://www.postgresql.org)
-[<img height="80" src="/resources/pngwing.com-3.png" width="80"/>](https://www.oracle.com)
-[<img height="70" src="/resources/pngwing.com-4.png" width="70"/>](https://www.mysql.com)
-[<img height="90" src="/resources/pngwing.com-5.png" width="90"/>](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-[<img height="70" src="/resources/pngwing.com-6.png" width="70"/>](https://www.linux.org)
-[<img height="70" src="/resources/tomcat.png" width="70"/>](https://tomcat.apache.org)
-[<img height="90" src="/resources/3-2-os-x-thumb.png" width="90"/>](https://www.apple.com/macos/)
+[<img height="55" src=".idea/resources/java.png" width="55"/>](https://www.java.com/es/)
+[<img height="55" src=".idea/resources/clipart300342.png" width="55"/>](https://spring.io)
+[<img height="65" src=".idea/resources/pngwing.com.png" width="65"/>](https://www.openapis.org)
+[<img height="70" src=".idea/resources/pngwing.com-2.png" width="70"/>](https://www.postgresql.org)
+[<img height="80" src=".idea/resources/pngwing.com-3.png" width="80"/>](https://www.oracle.com)
+[<img height="70" src=".idea/resources/pngwing.com-4.png" width="70"/>](https://www.mysql.com)
+[<img height="90" src=".idea/resources/pngwing.com-5.png" width="90"/>](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[<img height="70" src=".idea/resources/pngwing.com-6.png" width="70"/>](https://www.linux.org)
+[<img height="70" src=".idea/resources/tomcat.png" width="70"/>](https://tomcat.apache.org)
+[<img height="90" src=".idea/resources/3-2-os-x-thumb.png" width="90"/>](https://www.apple.com/macos/)
 
