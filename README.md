@@ -4,7 +4,7 @@
 <h1>Hi 👋, I'm Rafael Saldaña</h1>
 </div>
 <h3 align="center">
-I am a technology enthusiast, I like to learn about new technologies and a lover of Aikido. I have been developing software for 6 years, using technology.
+I am a technology enthusiast, I like to learn about new technologies and a lover of Aikido. I have been developing software for more than 6 years, using technology.
 </h3>
 🌱 I am currently learning about TDD, Python, and I will strengthen myself in some Frontend language.
 
